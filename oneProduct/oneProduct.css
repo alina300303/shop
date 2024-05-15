@@ -1,0 +1,14 @@
+.img__one{
+    width: 300px;
+    height: 300px;
+}
+.one__box{
+    border-radius: 20px;
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    padding: 60px;
+}
+body{
+    background-color: lightgrey;
+}
